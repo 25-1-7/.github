@@ -6,7 +6,6 @@
 > HTML5 Canvas로 구현한 벽돌 반사 기반의 미니 게임  
 > "우주 쓰레기를 반사하며 정화하는" 테마의 아케이드 게임입니다.  
 > 사용자는 마우스를 이용해 네 방향 패들을 조작하고, 제한 시간 내에 목표 점수를 달성해야 합니다.
-![barrier_ingame_2](https://github.com/user-attachments/assets/d32f98bb-ca4f-4d06-aedf-7ee5c600745f)
 
 ---
 
@@ -14,6 +13,7 @@
 
 SPACE CLEANER는 JavaScript의 Canvas API를 활용하여 제작된 간단한 물리 기반 반사 게임입니다.  
 플레이어는 우주 청소 로봇이 되어 쓰레기를 튕겨내고, 나쁜 쓰레기를 제거하며 우주 공간을 청소해야 합니다.
+![barrier_ingame_2](https://github.com/user-attachments/assets/d32f98bb-ca4f-4d06-aedf-7ee5c600745f)
 
 - **공을 조작하지 않고 네 방향 패들로 반사시킴**
 - **랜덤하게 움직이는 쓰레기 벽돌들과 충돌 감지**
