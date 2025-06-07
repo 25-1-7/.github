@@ -1,6 +1,7 @@
 # 🚀 SPACE CLEANER
 
-![3](https://github.com/user-attachments/assets/2149aceb-7435-44b5-bf85-ac17fc387d4e)
+
+![title](https://github.com/user-attachments/assets/3e70cf8d-60b4-49c9-96ad-6df265f5c9e0)
 
 
 > HTML5 Canvas로 구현한 벽돌 반사 기반의 미니 게임  
